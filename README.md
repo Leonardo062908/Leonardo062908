@@ -20,7 +20,7 @@
 * **Especialista & Parceria** - traduzo regras de negócio em soluções simples, co-criando com áreas comerciais.
 * **Atitude de Dono** - cuido da jornada ponta a ponta (briefing → dev → handoff → docs) com **clean code** e previsibilidade.
 * **Resiliência** - resolvo bloqueios com método; se preciso, **peço reforço** rápido para não travar o fluxo.
-* **Liderança** - organizo contexto, padronizo e puxo a barra do time (ex.: liderança do grupo **Safrium** no Conextag).
+* **Liderança** - organizo contexto, padronizo e puxo a barra do tim.
 
 ---
 
