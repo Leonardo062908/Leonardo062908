@@ -50,6 +50,7 @@
 <code><img height="28" src="https://skillicons.dev/icons?i=aws" alt="AWS"/></code>
 <code><img height="28" src="https://skillicons.dev/icons?i=git" alt="Git"/></code>
 <code><img height="28" src="https://skillicons.dev/icons?i=gitlab" alt="GitLab"/></code>
+<code><img height="28" src="https://skillicons.dev/icons?i=github" alt="GitHub"/></code>
 <code><img height="28" src="https://skillicons.dev/icons?i=linux" alt="Linux"/></code>
 <code><img height="28" src="https://skillicons.dev/icons?i=figma" alt="Figma"/></code>
 
