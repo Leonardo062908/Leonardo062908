@@ -74,10 +74,7 @@ My focus is on front-end architecture (Angular + TypeScript), robust back-end AP
 
 ## 📈 Activity
 
-<p>
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo062908&layout=compact&hide_border=true" alt="Top Langs"/>
-  <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo062908&hide_border=true" alt="Streak"/>
-</p>
+<p> <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo062908&layout=compact&hide_border=true" /> <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo062908&hide_border=true" /> </p>
 
 ![](https://komarev.com/ghpvc/?username=Leonardo062908\&color=006bed)
 
