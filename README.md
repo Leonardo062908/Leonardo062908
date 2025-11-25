@@ -67,7 +67,6 @@ My focus is on front-end architecture (Angular + TypeScript), robust back-end AP
 * **Tests + observability** - as part of the delivery.
 * **Scalable architectures** - not hacks.
 * **Continuous improvement** - curiosity, discipline, iteration.
-    
 <br/>
 
 ---
